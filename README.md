@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Kuma.Ninja
+by [@r-reis](https://github.com/r-reis) & [@kaioteoi](https://github.com/kaioteoi)
 
-You can use the [editor on GitHub](https://github.com/kaioteoi/kuma.ninja/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Side project created as a seed for our future golden company
+Kuma.ninja will growth up to a tech company focused primarly on great softwares development and all another high tech jobs, such as
+- v1rtu4l s3cur1ty h4xx00r
+- Fullstack webmasters
+- AWS experts
+- IOT Megazord makers
+- Urgent problem solvers
+- more coming soon...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find us in Github, we're always around there
+[@r-reis](https://github.com/r-reis)
+[@kaioteoi](https://github.com/kaioteoi)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaioteoi/kuma.ninja/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Peace :)
