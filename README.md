@@ -14,4 +14,4 @@ Find us in Github, we're always around there
 [@r-reis](https://github.com/r-reis)
 [@kaioteoi](https://github.com/kaioteoi)
 
-Peace :)
+Peace =)
