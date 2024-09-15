@@ -3653,6 +3653,7 @@ input, select, textarea {
 			#banner .content header {
 				display: inline-block;
 				vertical-align: middle;
+				width: 28em;
 			}
 
 				#banner .content header h2 {
@@ -3979,11 +3980,6 @@ input, select, textarea {
 
 		/* Banner */
 
-			#banner {
-				box-shadow: 0 0.125em 0.5em 0 var(--bg1-color);
-				min-height: calc(100vh - 44px);
-			}
-
 				#banner:before {
 					height: calc(100vh - 44px);
 				}
@@ -4249,3 +4245,7 @@ input, select, textarea {
 					}
 
 	}
+
+.dud {
+	color: red;
+}
