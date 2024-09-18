@@ -70,6 +70,7 @@ class TextScramble {
 
 const phrases = [
 	"what happens when a ninja meets a bear?",
+	"unleash your spirit and bear the unknown",
 ];
 
 const el = document.querySelector(".shuffle");
@@ -78,7 +79,7 @@ const fx = new TextScramble(el);
 let counter = 0;
 const next = () => {
   fx.setText(phrases[counter]).then(() => {
-    setTimeout(next, 2000);
+    setTimeout(next, 3000);
   });
   counter = (counter + 1) % phrases.length;
 };
